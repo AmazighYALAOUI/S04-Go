@@ -13,4 +13,6 @@ func main() {
 	fmt.Println(somme)
 	//f string
 	fmt.Printf("La somme est de : %v\n", somme)
+	fmt.Printf("Le résultat est : %v\n", multiply(14, 27))
+	fmt.Printf("Le résultat est : %v\n", division(95, 3))
 }
